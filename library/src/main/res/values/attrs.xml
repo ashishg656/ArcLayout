@@ -17,7 +17,9 @@
   <declare-styleable name="arc_ArcLayout">
     <attr name="arc_origin"/>
     <attr name="arc_color" format="color"/>
+    <attr name="arc_border_color" format="color"/>
     <attr name="arc_radius" format="dimension"/>
+    <attr name="arc_border_width" format="dimension"/>
     <attr name="arc_axisRadius" format="dimension"/>
     <attr name="arc_freeAngle" format="boolean"/>
     <attr name="arc_reverseAngle" format="boolean"/>
